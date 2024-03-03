@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/games-product-react/static/css/main.c08660ab.css",
+    "main.js": "/games-product-react/static/js/main.28352c7c.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/games-product-react/static/js/787.9e9f4ffd.chunk.js",
+    "index.html": "/games-product-react/index.html",
+    "main.c08660ab.css.map": "/games-product-react/static/css/main.c08660ab.css.map",
+    "main.28352c7c.js.map": "/games-product-react/static/js/main.28352c7c.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/games-product-react/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c08660ab.css",
+    "static/js/main.28352c7c.js"
+  ]
+}
